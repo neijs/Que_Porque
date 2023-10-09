@@ -1,0 +1,17 @@
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.csproj.AssemblyReference.cache
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.AssemblyInfoInputs.cache
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.AssemblyInfo.cs
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.csproj.CoreCompileInputs.cache
+D:\CSHARP\Prac1\bin\Debug\net6.0\Prac1.exe
+D:\CSHARP\Prac1\bin\Debug\net6.0\Prac1.deps.json
+D:\CSHARP\Prac1\bin\Debug\net6.0\Prac1.runtimeconfig.json
+D:\CSHARP\Prac1\bin\Debug\net6.0\Prac1.dll
+D:\CSHARP\Prac1\bin\Debug\net6.0\Prac1.pdb
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.dll
+D:\CSHARP\Prac1\obj\Debug\net6.0\refint\Prac1.dll
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.pdb
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.genruntimeconfig.cache
+D:\CSHARP\Prac1\obj\Debug\net6.0\ref\Prac1.dll
+D:\CSHARP\Prac1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CSHARP\Prac1\obj\Debug\net6.0\Prac1.csproj.CopyComplete

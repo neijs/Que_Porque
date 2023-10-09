@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+  dllmain.cpp
+  Splines.cpp
+  Generating Code...
+     Creating library D:\CSHARP\Lab3Splines\Build\Win32\Debug\SplinesDLL.lib and object D:\CSHARP\Lab3Splines\Build\Win32\Debug\SplinesDLL.exp
+Splines.obj : error LNK2019: unresolved external symbol _dfdNewTask1D referenced in function _MKLSplines
+Splines.obj : error LNK2019: unresolved external symbol _dfdEditPPSpline1D referenced in function _MKLSplines
+Splines.obj : error LNK2019: unresolved external symbol _dfdConstruct1D referenced in function _MKLSplines
+Splines.obj : error LNK2019: unresolved external symbol _dfdInterpolate1D referenced in function _MKLSplines
+Splines.obj : error LNK2019: unresolved external symbol _dfdIntegrate1D referenced in function _MKLSplines
+Splines.obj : error LNK2019: unresolved external symbol _dfDeleteTask referenced in function _MKLSplines
+C:\Program Files (x86)\Intel\oneAPI\mkl\2022.2.1\lib\intel64\mkl_sequential.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Program Files (x86)\Intel\oneAPI\mkl\2022.2.1\lib\intel64\mkl_core.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Program Files (x86)\Intel\oneAPI\mkl\2022.2.1\lib\intel64\mkl_intel_lp64.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\CSHARP\Lab3Splines\Build\Win32\Debug\SplinesDLL.dll : fatal error LNK1120: 6 unresolved externals

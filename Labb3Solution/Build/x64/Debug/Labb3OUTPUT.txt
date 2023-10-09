@@ -1,0 +1,112 @@
+Func argument quantity is 6,
+Maximum of the difference is 0,
+Maximum of the difference argument is 0,
+Execution time of vdTan is 222 microseconds,
+Execution time of Tan is 12 microseconds,
+Time ratio coefficient is 0,05405405405405406, that is tan 18,5 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 1000,
+Maximum of the difference is 8,881784197001252E-16,
+Maximum of the difference argument is -1,3946910328999733,
+Execution time of vdTan is 39 microseconds,
+Execution time of Tan is 28 microseconds,
+Time ratio coefficient is 0,717948717948718, that is tan 1,3928571428571428 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 100000,
+Maximum of the difference is 7,105427357601002E-15,
+Maximum of the difference argument is 1,546291659050219,
+Execution time of vdTan is 2452 microseconds,
+Execution time of Tan is 10047 microseconds,
+Time ratio coefficient is 4,09747145187602, that is vdTan 4,09747145187602 faster than tan.
+------------------------------------------------
+Func argument quantity is 10000000,
+Maximum of the difference is 2,2737367544323206E-13,
+Maximum of the difference argument is -1,5701199418289402,
+Execution time of vdTan is 1113987 microseconds,
+Execution time of Tan is 615227 microseconds,
+Time ratio coefficient is 0,5522748470134751, that is tan 1,8106926386520747 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 6,
+Maximum of the difference is 0,
+Maximum of the difference argument is 0,
+Execution time of vdTan is 249 microseconds,
+Execution time of Tan is 14 microseconds,
+Time ratio coefficient is 0,05622489959839357, that is tan 17,785714285714285 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 1000,
+Maximum of the difference is 8,881784197001252E-16,
+Maximum of the difference argument is -1,3946910328999733,
+Execution time of vdTan is 38 microseconds,
+Execution time of Tan is 26 microseconds,
+Time ratio coefficient is 0,6842105263157895, that is tan 1,4615384615384615 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 100000,
+Maximum of the difference is 7,105427357601002E-15,
+Maximum of the difference argument is 1,546291659050219,
+Execution time of vdTan is 3038 microseconds,
+Execution time of Tan is 9552 microseconds,
+Time ratio coefficient is 3,144173798551679, that is vdTan 3,144173798551679 faster than tan.
+------------------------------------------------
+Func argument quantity is 10000000,
+Maximum of the difference is 2,2737367544323206E-13,
+Maximum of the difference argument is -1,5701199418289402,
+Execution time of vdTan is 221551 microseconds,
+Execution time of Tan is 312164 microseconds,
+Time ratio coefficient is 1,408993865972169, that is vdTan 1,408993865972169 faster than tan.
+------------------------------------------------
+Func argument quantity is 6,
+Maximum of the difference is 0,
+Maximum of the difference argument is 0,
+Execution time of vdTan is 3117 microseconds,
+Execution time of Tan is 373 microseconds,
+Time ratio coefficient is 0,11966634584536413, that is tan 8,35656836461126 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 1000,
+Maximum of the difference is 8,881784197001252E-16,
+Maximum of the difference argument is -1,3946910328999733,
+Execution time of vdTan is 67 microseconds,
+Execution time of Tan is 29 microseconds,
+Time ratio coefficient is 0,43283582089552236, that is tan 2,310344827586207 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 100000,
+Maximum of the difference is 7,105427357601002E-15,
+Maximum of the difference argument is 1,546291659050219,
+Execution time of vdTan is 3946 microseconds,
+Execution time of Tan is 6595 microseconds,
+Time ratio coefficient is 1,6713127217435377, that is vdTan 1,6713127217435377 faster than tan.
+------------------------------------------------
+Func argument quantity is 10000000,
+Maximum of the difference is 2,2737367544323206E-13,
+Maximum of the difference argument is -1,5701199418289402,
+Execution time of vdTan is 245996 microseconds,
+Execution time of Tan is 312986 microseconds,
+Time ratio coefficient is 1,2723215011626205, that is vdTan 1,2723215011626205 faster than tan.
+------------------------------------------------
+Func argument quantity is 6,
+Maximum of the difference is 0,
+Maximum of the difference argument is 0,
+Execution time of vdTan is 237 microseconds,
+Execution time of Tan is 11 microseconds,
+Time ratio coefficient is 0,046413502109704644, that is tan 21,545454545454547 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 1000,
+Maximum of the difference is 8,881784197001252E-16,
+Maximum of the difference argument is -1,3946910328999733,
+Execution time of vdTan is 44 microseconds,
+Execution time of Tan is 27 microseconds,
+Time ratio coefficient is 0,6136363636363636, that is tan 1,6296296296296295 faster than vdTan.
+------------------------------------------------
+Func argument quantity is 100000,
+Maximum of the difference is 7,105427357601002E-15,
+Maximum of the difference argument is 1,546291659050219,
+Execution time of vdTan is 2579 microseconds,
+Execution time of Tan is 7229 microseconds,
+Time ratio coefficient is 2,8030244280728964, that is vdTan 2,8030244280728964 faster than tan.
+------------------------------------------------
+Func argument quantity is 10000000,
+Maximum of the difference is 2,2737367544323206E-13,
+Maximum of the difference argument is -1,5701199418289402,
+Execution time of vdTan is 629861 microseconds,
+Execution time of Tan is 491106 microseconds,
+Time ratio coefficient is 0,779705363564342, that is tan 1,2825357458471287 faster than vdTan.
+------------------------------------------------

@@ -1,0 +1,15 @@
+D:\CSHARP\Lab3Splines\Build\x64\Debug\net6.0\Lab3Splines.exe
+D:\CSHARP\Lab3Splines\Build\x64\Debug\net6.0\Lab3Splines.deps.json
+D:\CSHARP\Lab3Splines\Build\x64\Debug\net6.0\Lab3Splines.runtimeconfig.json
+D:\CSHARP\Lab3Splines\Build\x64\Debug\net6.0\Lab3Splines.dll
+D:\CSHARP\Lab3Splines\Build\x64\Debug\net6.0\Lab3Splines.pdb
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.csproj.AssemblyReference.cache
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.AssemblyInfoInputs.cache
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.AssemblyInfo.cs
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.csproj.CoreCompileInputs.cache
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.dll
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\refint\Lab3Splines.dll
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.pdb
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\Lab3Splines.genruntimeconfig.cache
+D:\CSHARP\Lab3Splines\Lab3Splines\obj\Debug\net6.0\ref\Lab3Splines.dll
